@@ -1,7 +1,6 @@
 # Matriks Studio
-<p align="center">
-  <img src="Cover.png">
-</p>
+![Cover](https://user-images.githubusercontent.com/69069374/218318446-7bff8d99-6107-4520-a4ec-79c1844b3ad2.png)
+
 
 ## About
 Matriks Studio is a design studio with over 2+ years of experience in the industry. Our team of experts has worked with more than 5 satisfied clients, providing high-quality and innovative solutions for their design needs.
