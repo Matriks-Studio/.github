@@ -1,6 +1,6 @@
 # Matriks Studio
 <p align="center">
-  <img src="./Cover.png">
+  <img src="Cover.png">
 </p>
 
 ## About
